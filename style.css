@@ -1,0 +1,100 @@
+.xptf-btn {
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  font-size: 14px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  padding: 14px 30px;
+  line-height: 1.42857143;
+  display: inline-block;
+  margin-bottom: 0;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+  vertical-align: middle;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  background: #C19977;
+  cursor: pointer;
+  border: 1px solid transparent;
+  color: #fff;
+  outline: none;
+  position: relative;
+}
+.elementor-align-justify .xptf-btn {
+  width: 100%;
+}
+.xptf-btn:hover, .xptf-btn:focus {
+  background: #1e73be;
+}
+.xptf-btn.xptf-btn-dark {
+  background: #1e73be;
+}
+.xptf-btn.xptf-btn-dark:hover, .xptf-btn.xptf-btn-dark:focus {
+  background: #C19977;
+}
+.xptf-btn i {
+  margin-right: 12px;
+  vertical-align: middle;
+}
+.xptf-btn:hover, .xptf-btn:visited {
+  background: #1e73be;
+  color: #fff;
+}
+
+.xptf-btn-dark {
+  background: #1a1b1e;
+}
+.xptf-btn-dark:visited {
+  color: #fff;
+}
+.xptf-btn-dark:hover, .xptf-btn-dark:focus {
+  color: #fff;
+  background: #C19977;
+}
+
+.xptf-btn.xptf-btn-light {
+  background: #fff;
+  color: #C19977;
+}
+.xptf-btn-light:visited {
+  color: #1a1b1e;
+}
+.xptf-btn-light:hover, .xptf-btn-light:focus {
+  color: #fff;
+  background: #C19977;
+}
+
+.xptf-btn.xptf-btn-border {
+  background: transparent;
+  border-color: #C19977;
+  color: #C19977;
+}
+.xptf-btn.xptf-btn-border:visited {
+  color: #C19977;
+}
+.xptf-btn.xptf-btn-border:hover, .xptf-btn.xptf-btn-border:focus {
+  background: #C19977;
+  color: #fff;
+}
+.xptf-btn.xptf-btn-border.xptf-btn-light {
+  border-color: #fff;
+  color: #fff;
+}
+.xptf-btn.xptf-btn-border.xptf-btn-light:hover, .xptf-btn.xptf-btn-border.xptf-btn-light:focus {
+  background: #fff;
+  color: #1a1b1e;
+}
+.xptf-btn.xptf-btn-border.xptf-btn-dark {
+  border-color: #1a1b1e;
+  color: #1a1b1e;
+}
+.xptf-btn.xptf-btn-border.xptf-btn-dark:hover, .xptf-btn.xptf-btn-border.xptf-btn-dark:focus {
+  background: #1a1b1e;
+  color: #fff;
+}
